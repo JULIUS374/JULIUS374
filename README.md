@@ -1,14 +1,14 @@
 <!-- GitHub Profile README.md -->
 <!-- Save this file as README.md in a repository named juliusotucho (or your exact GitHub username) -->
 
-<!-- Header with Name and Banner -->
+<!-- JULIUS OTUCHO JUNIOR DEVELOPER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/juliusotucho/juliusotucho/main/assets/banner.jpg" alt="Julius Otucho's Banner" width="100%">
   <h1>👋 Hi, I'm Julius Otucho</h1>
   <p><em>Front-End Developer | ALX Software Engineering Student | UI/UX Enthusiast</em></p>
   
   <!-- Social Media & Contact Badges -->
-  <a href="https://linkedin.com/in/julius-otucho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/julius-King"><img src="[https://img.shields.io/badge/LinkedIn-0077B5](https://www.linkedin.com/in/julius-king-16ab86363/)?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/julius_otucho"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://juliusotucho.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:juliusotucho@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -28,8 +28,6 @@ const aboutMe = {
   passions: ["Web Development", "User Experience", "Responsive Design", "UI Animation"],
   hobbies: ["Reading Tech Blogs", "Soccer", "Photography", "Learning New Technologies"],
   funFact: "I once stayed up 48 hours straight to finish my first full-stack project!"
-};
-```
 
 My journey into software engineering began when I realized the power of the web to transform businesses and connect people. Growing up with a fascination for both creativity and logic, front-end development became the perfect intersection of my interests. I'm passionate about creating intuitive, accessible user interfaces that solve real problems while delivering exceptional user experiences.
 
